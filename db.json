@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "day": "Feb 5 at 2.30",
+      "name": "Go to Appointment",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "day": "Feb 6 at 12.30",
+      "name": "Get a car",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "day": "Feb 8 at 1.30",
+      "name": "Fly to Paris",
+      "reminder": false
+    },
+    {
+      "name": "Task 1 ",
+      "day": "Today",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "id": "12cdce07-1852-431b-b1d6-e6c1646a657e",
+      "name": "Task 2",
+      "day": "Tomorrow",
+      "reminder": true
+    },
+    {
+      "id": "ae21c4be-3bce-4243-930e-b7707860d7c2",
+      "name": "Task 3",
+      "day": "Tomorro 2",
+      "reminder": false
+    }
+  ],
+  "stan": {
+    "stan": "st"
+  },
+  "steve": {
+    "stan": "steve"
+  },
+  "nst": {
+    "stan": "nst"
+  }
+}
